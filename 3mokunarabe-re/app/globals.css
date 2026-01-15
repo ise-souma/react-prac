@@ -100,7 +100,7 @@ ul {
 }
 
 .status {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 .game {
   display: flex;
@@ -108,5 +108,12 @@ ul {
 }
 
 .game-info {
-  margin-left: 20px;
+  margin-left: 100px;
+}
+
+.size-button{
+  border:1px solid white;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
